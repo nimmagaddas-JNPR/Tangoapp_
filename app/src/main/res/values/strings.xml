@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tangoapp</string>
+    <string name="TangoApp" />
 </resources>

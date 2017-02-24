@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="java_camera_view" type="id" />
+    <item name="capture" type="id" />
+    <item name="button" type="id">button</item>
+    <item name="button_id" type="id" />
+    <item name="rlib" type="id" />
 </resources>
